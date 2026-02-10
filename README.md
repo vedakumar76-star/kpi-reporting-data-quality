@@ -33,7 +33,8 @@ pip install -r requirements.txt
 python notebooks/kpi_trend_analysis.py
 ```
 
-## Talking points (for interviews)
-- How you deduped payments and prevented double-counting
-- How you handled late-arriving data for month-end cutoffs
-- How you reconciled KPI mismatches across systems and documented metric definitions
+## Key considerations
+- Payment deduplication logic and controls used to prevent double-counting in revenue metrics  
+- Treatment of late-arriving data and its impact on month-end KPI cutoffs and trend analysis  
+- Reconciliation approach used to explain KPI discrepancies across source systems and document metric definitions
+
