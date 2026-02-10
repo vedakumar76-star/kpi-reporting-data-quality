@@ -1,0 +1,2 @@
+orders_total_rows,orders_unique_order_id,orders_missing_region_pct,payments_total_rows,payments_dedup_rows,payments_duplicate_rows
+18000,18000,1.77,17344,17241,103
